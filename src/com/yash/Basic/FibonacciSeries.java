@@ -1,5 +1,6 @@
-package com.yash.basic;
+package com.yash.Basic;
 
+//Time Complexity is O(n)
 public class FibonacciSeries {
     static void Fibonacci(int N)
     {

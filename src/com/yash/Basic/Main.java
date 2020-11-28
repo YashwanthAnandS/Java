@@ -1,4 +1,4 @@
-package com.yash.basic;
+package com.yash.Basic;
 
 public class Main {
 
